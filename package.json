@@ -1,0 +1,13 @@
+{
+  "name": "html-color-tools",
+  "version": "1.0.0",
+  "description": "Tools for working with HTML colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Lewin elewin@gmail.com",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
