@@ -1,6 +1,6 @@
 {
   "name": "html-color-tools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tools for working with HTML colors",
   "main": "index.js",
   "scripts": {
