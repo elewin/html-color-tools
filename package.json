@@ -1,6 +1,6 @@
 {
   "name": "html-color-tools",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Tools for working with HTML colors",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,10 @@
   },
   "author": "Eric Lewin",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elewin/html-color-tools.git"
+  },
   "dependencies": {},
   "devDependencies": {}
 }
