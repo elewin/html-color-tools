@@ -35,8 +35,8 @@ Tools for working with HTML colors.
 ## isValidHexColorCode(str) ⇒ <code>Boolean</code>
 Determine if given input is a valid hex color code
 
-**Kind**: global function  
-**Returns**: <code>Boolean</code> - if input is a valid hex color code  
+**Kind**: global function
+**Returns**: <code>Boolean</code> - if input is a valid hex color code
 
 | Param | Type | Description |
 | --- | --- | --- |
@@ -49,8 +49,8 @@ Programmatically lighten or darken a color
 
 from http://stackoverflow.com/questions/5560248/programmatically-lighten-or-darken-a-hex-color
 
-**Kind**: global function  
-**Returns**: <code>String</code> - lightened or darkened color  
+**Kind**: global function
+**Returns**: <code>String</code> - lightened or darkened color
 
 | Param | Type | Description |
 | --- | --- | --- |
@@ -62,8 +62,8 @@ from http://stackoverflow.com/questions/5560248/programmatically-lighten-or-dark
 ## contrastingColor(bgColor, threshold, invert) ⇒ <code>String</code>
 Determines if a foreground color should be black or white depending on the given contrasting background color
 
-**Kind**: global function  
-**Returns**: <code>String</code> - `#000000` or `#FFFFFF`  
+**Kind**: global function
+**Returns**: <code>String</code> - `#000000` or `#FFFFFF`
 
 | Param | Type | Description |
 | --- | --- | --- |
@@ -78,8 +78,8 @@ Determines the brightness level of a color
 
 from https://www.w3.org/TR/AERT#color-contrast
 
-**Kind**: global function  
-**Returns**: <code>Number</code> - brightness value  
+**Kind**: global function
+**Returns**: <code>Number</code> - brightness value
 
 | Param | Type | Description |
 | --- | --- | --- |
@@ -90,8 +90,8 @@ from https://www.w3.org/TR/AERT#color-contrast
 ## hexToRGB(hex, alpha) ⇒ <code>Object</code>
 Convert a hex color to RGB
 
-**Kind**: global function  
-**Returns**: <code>Object</code> - An object with `r`, `g`, and `b` values (optionally `a` if `alpha` is `true`)  
+**Kind**: global function
+**Returns**: <code>Object</code> - An object with `r`, `g`, and `b` values (optionally `a` if `alpha` is `true`)
 
 | Param | Type | Description |
 | --- | --- | --- |
@@ -103,8 +103,8 @@ Convert a hex color to RGB
 ## hex3ToHex6(hex3, addHash) ⇒ <code>String</code>
 Converts a 3 digit hex color (e.g., #FFF) and returns its 6 digit equivlent (e.g., #FFFFFF)
 
-**Kind**: global function  
-**Returns**: <code>String</code> - 6 digit hex color code  
+**Kind**: global function
+**Returns**: <code>String</code> - 6 digit hex color code
 
 | Param | Type | Description |
 | --- | --- | --- |
@@ -118,7 +118,7 @@ Converts a 3 digit hex color (e.g., #FFF) and returns its 6 digit equivlent (e.g
 
 The MIT License (MIT)
 
-Copyright (c) 2019 Eric Lewin elewin@gmail.com
+Copyright (c) 2019 Eric Lewin
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
